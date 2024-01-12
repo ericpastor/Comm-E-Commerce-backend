@@ -8,19 +8,21 @@
 ![EF Core](https://img.shields.io/badge/EF%20Core-v.7-cyan)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-v.14-drakblue)
 
-This project involves a Fullstack project with React and Redux in the frontend and ASP.NET Core 7 in the backend as a finnal projectr for Integrfy Academy.
+This project involves a Fullstack project with React and Redux in the frontend and ASP.NET Core 7 in the backend as a final project for Integrity Academy.
 
 - Frontend: SASS, TypeScript, React, Redux Toolkit
 - Backend: ASP.NET Core, Entity Framework Core, PostgreSQL
 
-You can follow the same topics as your backend project or choose the alternative one, between E-commerce and Library. You can reuse the previous frontend project, with necessary modification to fit your backend server.
+Deployed site: https://guileless-trifle-3116f5.netlify.app/ <br>
+Comm.WebAPI: https://comm2024.azurewebsites.net/
 
 ## Table of Contents
 
 1. [About the repository](#about-the-repositpry)
 2. [Features](#features)
 3. [Entity Relationship Diagram](#entity-relationship-diagram)
-4. [Implemented](#implemented)
+4. [Workflow example](#workflow-example)
+5. [Implemented](#implemented)
 
 ## About the repository
 
@@ -43,11 +45,15 @@ Generate a solution file inside this repository. All the project layers of backe
 
 1. User Management: Admins should be able to view and delete users.
 2. Product Management: Admins should be able to view, edit, delete and add new products.
-3. Order Management: Admins should be able to view all orders.
+3. Order Management: Admins should be able to view all orders and delete them.
 
 ## Entity Relationship Diagram
 
 ![image](https://github.com/ericpastor/practice-frontend-e-commerce/assets/110885492/dfb9d1aa-3efb-43eb-bf4b-bb17f8d4ae3f)
+
+## Workflow example
+
+![image](https://github.com/ericpastor/Comm-E-Commerce-backend/assets/110885492/4adad414-00e9-4f38-8711-9399b45e5e49)
 
 ## Implemented
 
